@@ -1,0 +1,8 @@
+{
+    "editor.wordWrap": "on",
+    "zenMode.fullScreen": false,
+    "zenMode.hideActivityBar": false,
+    "zenMode.hideLineNumbers": true,
+    "zenMode.hideStatusBar": false,
+    "zenMode.restore": false
+}
